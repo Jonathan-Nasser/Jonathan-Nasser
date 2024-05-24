@@ -1,6 +1,6 @@
 Olá... 👋
 
-Eu sou Jonathan Nasser, atualmente sou um aprendiz de programador Front-End.
+Sou Jonathan Nasser, atualmente sou um aprendiz de programador Front-End.
 - 🔭 criando projetos com:
 - 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" /> <br>
