@@ -13,7 +13,7 @@ Sou Jonathan Nasser, atualmente sou um aprendiz de programador Front-End.
 
 - Redes:
 
-<a href="www.linkedin.com/in/jonathan-nasser-31baa3122" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-link" /> </a>
+<a href="www.linkedin.com/in/jonathan-nasser" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-link" /> </a>
 
 - Status GitHub
 
