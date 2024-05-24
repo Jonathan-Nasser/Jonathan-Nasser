@@ -11,6 +11,9 @@ Sou Jonathan Nasser, atualmente sou um aprendiz de programador Front-End.
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="logo-GitHub" /><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascript" />
 
+- Redes:
+  
+
 - Status GitHub
 
   [![Status Jonathan Nasser](https://github-readme-stats.vercel.app/api?username=Jonathan-Nasser)](https://github.com/anuraghazra/github-readme-stats)
